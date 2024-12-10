@@ -5,10 +5,10 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
     vec![
         Product {
             id: 1,
-            name: "Contoso Catnip's Friend".to_string(),
-            price: 9.99,
-            description: "Watch your feline friend embark on a fishing adventure with Contoso Catnip's Friend toy. Packed with irresistible catnip and dangling fish lure.".to_string(),
-            image: "/catnip.jpg".to_string()
+            name: "PlayStation 5".to_string(),
+            price: 649.99,
+            description: "The PlayStation 5 (PS5) delivers next-gen gaming with ultra-fast load times, stunning 4K visuals, and immersive haptic feedback. Powered by a custom SSD and advanced processing capabilities, the PS5 offers an incredible gaming experience, whether you're exploring vast open worlds or diving into action-packed adventures. With a sleek design, ultra-responsive DualSense controller, and a growing library of exclusive titles, the PS5 is the ultimate console for gamers.".to_string(),
+            image: "/mermaid.jpg".to_string()
         },
         Product {
             id: 2,
