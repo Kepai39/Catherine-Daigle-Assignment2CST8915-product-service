@@ -12,65 +12,65 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         },
         Product {
             id: 2,
-            name: "Salty Sailor's Squeaky Squid".to_string(),
-            price: 6.99,
-            description: "Let your dog set sail with the Salty Sailor's Squeaky Squid. This interactive toy provides hours of fun, featuring multiple squeakers and crinkle tentacles.".to_string(),
+            name: "Apple iPhone15 ProMax ".to_string(),
+            price: 2.099,
+            description: "Elevate your mobile experience with the all-new iPhone 15 Pro Max! Featuring the powerful A17 Pro chip, a stunning 6.7-inch Super Retina XDR display, and a groundbreaking 48MP camera system, this is the ultimate device for power, performance, and photography.".to_string(),
             image: "/squid.jpg".to_string()
         },
         Product {
             id: 3,
-            name: "Mermaid's Mice Trio".to_string(),
-            price: 12.99,
-            description: "Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.".to_string(),
+            name: "Apple Watch SE".to_string(),
+            price: 359.99,
+            description: "Discover the perfect blend of performance, style, and value with the Apple Watch SE! Packed with essential features like fitness tracking, heart rate monitoring, and seamless integration with your iPhone, the Apple Watch SE is your perfect companion for everyday life.".to_string(),
             image: "/mermaid.jpg".to_string()
         },
         Product {
             id: 4,
-            name: "Ocean Explorer's Puzzle Ball".to_string(),
-            price: 11.99,
-            description: "Challenge your pet's problem-solving skills with the Ocean Explorer's Puzzle Ball. This interactive toy features hidden compartments and treats, providing mental stimulation and entertainment.".to_string(),
+            name: "Bella ProTouchscreen AirFryer".to_string(),
+            price: 129.99,
+            description: "Transform the way you cook with the Bella Pro Touchscreen Air Fryer! Enjoy crispy, delicious meals with little to no oil. Whether you're air frying, baking, or roasting, this easy-to-use appliance is perfect for all your cooking needs.".to_string(),
             image: "/ocean.jpg".to_string()
         },
         Product {
             id: 5,
-            name: "Pirate Parrot Teaser Wand".to_string(),
-            price: 8.99,
-            description: "Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.".to_string(),
+            name: "Bose Quiet Comfort".to_string(),
+            price: 499.99,
+            description: "Step into a world of pure sound and silence with the Bose QuietComfort 45 headphones. Engineered for superior noise-cancellation and all-day comfort, these headphones let you enjoy your music, calls, and podcasts like never before.".to_string(),
             image: "/pirate.jpg".to_string()
         },
         Product {
             id: 6,
-            name: "Seafarer's Tug Rope".to_string(),
-            price: 14.99,
-            description: "Tug-of-war meets nautical adventure with the Seafarer's Tug Rope. Made from marine-grade rope, it's perfect for interactive play and promoting dental health in dogs.".to_string(),
+            name: "Final Fantasy Rebirth".to_string(),
+            price: 89.99,
+            description: "The next chapter in the legendary Final Fantasy VII saga is here! Final Fantasy VII Rebirth delivers stunning graphics, an immersive story, and intense action-packed gameplay that fans have been waiting for.".to_string(),
             image: "/tug.jpg".to_string()
         },
         Product {
             id: 7,
-            name: "Seashell Snuggle Bed".to_string(),
-            price: 19.99,
-            description: "Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.".to_string(),
+            name: "GoPro HERO13 Black Waterproof".to_string(),
+            price: 649.99,
+            description: "Unleash the power of the GoPro HERO13 Black, your ultimate companion for every adventure! Whether you're hiking, surfing, or exploring the great outdoors, the HERO13 is built to withstand it all with its rugged, waterproof design.".to_string(),
             image: "/bed.jpg".to_string()
         },
         Product {
             id: 8,
-            name: "Nautical Knot Ball".to_string(),
-            price: 7.99,
-            description: "Unleash your dog's inner sailor with the Nautical Knot Ball. Made from sturdy ropes, it's perfect for fetching, tugging, and satisfying their chewing needs.".to_string(),
+            name: "JBL Flip5 Waterproof Bluetooth Wireless Speaker".to_string(),
+            price: 129.99,
+            description: "Take your music anywhere with the JBL Flip 5 – the perfect portable speaker for any adventure! With powerful sound, waterproof design, and up to 12 hours of playtime, it's built to keep the music going, rain or shine.".to_string(),
             image: "/knot.jpg".to_string()
         },
         Product {
             id: 9,
-            name: "Contoso Claw's Crabby Cat Toy".to_string(),
-            price: 3.99,
-            description: "Watch your cat go crazy for Contoso Claw's Crabby Cat Toy. This crinkly and catnip-filled toy will awaken their hunting instincts and provide endless entertainment.".to_string(),
+            name: "Macbook Air".to_string(),
+            price: 1,649,
+            description: "Experience the ultimate in sleek design and high performance with the MacBook Air. Powered by the M2 chip, this ultra-lightweight laptop delivers incredible speed, long-lasting battery life, and all the power you need to tackle any task—whether you're working, studying, or creating.".to_string(),
             image: "/crabby.jpg".to_string()
         },
         Product {
             id: 10,
-            name: "Ahoy Doggy Life Jacket".to_string(),
-            price: 5.99,
-            description: "Ensure your furry friend stays safe during water adventures with the Ahoy Doggy Life Jacket. Designed for dogs, this flotation device offers buoyancy and visibility in style.".to_string(),
+            name: "Metaphor-Refantazio PS5".to_string(),
+            price: 79.99,
+            description: "Dive into a world of fantasy, mystery, and strategic combat with Metaphor: ReFantazio, the latest RPG from the creators of Shin Megami Tensei! Explore a beautifully crafted world, meet unforgettable characters, and uncover dark secrets in this epic tale.".to_string(),
             image: "/lifejacket.jpg".to_string()
         }
     ]
