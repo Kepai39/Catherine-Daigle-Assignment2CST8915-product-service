@@ -8,7 +8,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "PlayStation 5".to_string(),
             price: 649.99,
             description: "The PlayStation 5 (PS5) delivers next-gen gaming with ultra-fast load times, stunning 4K visuals, and immersive haptic feedback. Powered by a custom SSD and advanced processing capabilities, the PS5 offers an incredible gaming experience, whether you're exploring vast open worlds or diving into action-packed adventures. With a sleek design, ultra-responsive DualSense controller, and a growing library of exclusive titles, the PS5 is the ultimate console for gamers.".to_string(),
-            image: "/PS.jpg".to_string()
+            image: "/ps.jpg".to_string()
         },
         Product {
             id: 2,
