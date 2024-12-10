@@ -13,7 +13,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         Product {
             id: 2,
             name: "Apple iPhone15 ProMax ".to_string(),
-            price: 2.099,
+            price: 2099.99,
             description: "Elevate your mobile experience with the all-new iPhone 15 Pro Max! Featuring the powerful A17 Pro chip, a stunning 6.7-inch Super Retina XDR display, and a groundbreaking 48MP camera system, this is the ultimate device for power, performance, and photography.".to_string(),
             image: "/squid.jpg".to_string()
         },
@@ -62,7 +62,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         Product {
             id: 9,
             name: "Macbook Air".to_string(),
-            price: 1,649,
+            price: 1649.99,
             description: "Experience the ultimate in sleek design and high performance with the MacBook Air. Powered by the M2 chip, this ultra-lightweight laptop delivers incredible speed, long-lasting battery life, and all the power you need to tackle any task—whether you're working, studying, or creating.".to_string(),
             image: "/crabby.jpg".to_string()
         },
