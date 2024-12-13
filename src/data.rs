@@ -1,6 +1,7 @@
 use crate::model::Product;
 use crate::configuration::Settings;
 
+// List of all the products has been changed to suit Bestbuy products
 pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
     vec![
         Product {
